@@ -3,7 +3,7 @@
   <PropertyGroup>
     <AssemblyName>aver.test</AssemblyName>
     <AssemblyTitle>aver.test</AssemblyTitle>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
     <DebugType>portable</DebugType>
     <EmitEntryPoint>false</EmitEntryPoint>
     <Company>mocosha Inc.</Company>
